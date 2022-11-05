@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ikraam-Smith
 - 👀 I’m interested in Gaming
 - 🌱 I’m always willing to learn and improve my knowledge
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Check out my LinkedIn profile: www.linkedin.com/in/ikraam-smith 
 
 <!---
 Ikraam-Smith/Ikraam-Smith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
