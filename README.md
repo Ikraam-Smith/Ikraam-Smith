@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ikraam-Smith
-- 👀 I’m interested in Gaming
 - 🌱 I’m always willing to learn and improve my knowledge
 - 📫 Check out my LinkedIn profile: www.linkedin.com/in/ikraam-smith 
 
