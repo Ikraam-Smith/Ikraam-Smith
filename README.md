@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ikraam-Smith
+- 👋 Hi, I’m Ikraam Smith
 - 🌱 I’m always willing to learn and improve my knowledge
 - 📫 Check out my LinkedIn profile: www.linkedin.com/in/ikraam-smith 
 
